@@ -1,4 +1,4 @@
 # SCMG13
-Demo of git
-this is my first project
+Demo of git<br>
+this is my first project<br>
 hello
